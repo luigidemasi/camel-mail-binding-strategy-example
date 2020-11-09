@@ -1,5 +1,9 @@
-Camel Java Router Project
+Camel Mail Custom MailBinding
 =========================
+
+This is an example on how to implement a custom MailBinding strategy and deal 
+with a mail message with two attachment with the same file name.
+
 
 To build this project use
 
